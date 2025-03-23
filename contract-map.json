@@ -4504,5 +4504,12 @@
     "erc20": true,
     "symbol": "PROS",
     "decimals": 18
+  },
+  "0x32b407ee915432be6d3f168bc1eff2a6f8b2034c": {
+    "name": "HODL",
+    "logo": "HODL.svg",
+    "erc20": true,
+    "symbol": "HODL",
+    "decimals": 18
   }
 }
